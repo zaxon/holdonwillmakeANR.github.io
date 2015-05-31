@@ -10,13 +10,13 @@ safe: false
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 寂寞先生
-tagline: Site Tagline
+title : holdonmakeANR
+tagline: wireless testing
 author :
-  name : 陈佳伟
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : 辛建康
+  email : xinjiankang
+  github : zaxon
+  twitter : NONE
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -27,7 +27,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://enml.github.io/blog
+production_url : https://github.com/zaxon/zaxon.github.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -102,7 +102,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-50637568-1'
+        tracking_id : 'UA-63565995-1'
     getclicky :
       site_id : 
     mixpanel :
